@@ -1,0 +1,23 @@
+/*
+    <samplecode>
+        <abstract>
+            Strings used across the application via the NSLocalizedString API.
+        </abstract>
+    </samplecode>
+*/
+
+"A message should be a short, complete sentence." = "A message should be a short, complete sentence.";
+"A Short Title is Best" = "A Short Title is Best";
+"OK" = "OK";
+"Cancel" = "Cancel";
+"Delete" = "Delete";
+"Email Address" = "Email Address";
+"Enter your name" = "Enter your name";
+"example@example.com" = "example@example.com";
+"Name" = "Name";
+"Number Pad" = "Number Pad";
+"Numbers and Punctation" = "Numbers and Punctation";
+"Password" = "Password";
+"Regular Text" = "Regular Text";
+"Enter keyword (e.g. iceland)" = "Enter keyword (e.g. iceland)";
+"Button" = "Button";
